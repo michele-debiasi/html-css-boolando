@@ -116,7 +116,7 @@ color: black;
     display: none;
 
  }
-.container:hover .dress-card .dress-image .img-1{
+.dress-card .dress-image .img-1{
     display: none;
 }
 
