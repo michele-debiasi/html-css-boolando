@@ -14,6 +14,17 @@
     max-width: 100%;
 }
 
+img{
+
+    max-width: 100%;
+}
+
+
+
+
+
+
+
 .zalando-page > .container {
 
     display: flex;
@@ -31,6 +42,6 @@
     /* debug */
     background-color: lightgray;
     min-height: 500px;
-    
+
 
 }
