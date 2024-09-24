@@ -99,5 +99,16 @@ color: white;
 }
 
 .dress-image .greentab {
+position: absolute;
+left: 50px;
+bottom: 2rem;
+border: rgb(19, 175, 19);
+background-color: rgb(19, 175, 19);
+text-align: center;
+height: 20px;
+width: 80px;
+line-height: 20px;
+text-align: center;
+color: black;
 
 }
