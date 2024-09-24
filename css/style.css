@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+/* UTILS */
+
+.container{
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 1000px;
+    max-width: 100%;
+}
+
+.zalando-page > .container {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 5rem 0;
+
+}
+
+.container .dress-card {
+    flex: 1 0 30%;
+
+    /* debug */
+    background-color: lightgray;
+    min-height: 300px;
+
+}
