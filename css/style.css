@@ -72,7 +72,9 @@ h3{
     position: absolute;
     top: 1.5rem;
     right: 1.5rem;
-    border-radius: 30%;
+    border: solid;
     background-color: white;
+    text-align: center;
+    
 
 }
