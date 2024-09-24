@@ -62,3 +62,15 @@ h3{
 
 
 }
+
+.dress-image{
+
+    position: relative;
+
+}
+.dress-image .heart {
+    position: absolute;
+    top: 0;
+    right: 0;
+    
+}
