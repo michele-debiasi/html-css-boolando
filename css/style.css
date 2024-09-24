@@ -83,3 +83,21 @@ h3{
 
 
 }
+.dress-image .discount {
+position: absolute;
+left: 0;
+bottom: 2rem;
+border: red;
+background-color: red;
+text-align: center;
+height: 20px;
+width: 40px;
+line-height: 20px;
+text-align: center;
+color: white;
+
+}
+
+.dress-image .greentab {
+
+}
