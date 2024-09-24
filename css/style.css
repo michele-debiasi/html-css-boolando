@@ -70,7 +70,8 @@ h3{
 }
 .dress-image .heart {
     position: absolute;
-    top: 0;
-    right: 0;
-    
+    top: 2rem;
+    right: 2rem;
+    border-radius: 30%;
+
 }
