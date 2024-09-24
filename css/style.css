@@ -119,6 +119,9 @@ color: black;
 .container:hover .dress-card .dress-image .img-hover{
     display: none;
 }
+.zalando-page:hover > .container .dress-card .dress-image .img-hover{
+    display: none;
+}
 
 
     
