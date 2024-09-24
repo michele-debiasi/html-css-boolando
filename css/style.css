@@ -23,18 +23,18 @@ img{
 
 h2{
     font-size: 0.9rem;
-    font-style: grey;
+    color: grey;
 }
 
 h1{
     font-size: 1.3rem;
-    font-style: black;
+    color: black;
 
 
 }
 
 h3{
-    font-style: red;
+    color: red;
     font-size: 0.9rem;
 }
 
