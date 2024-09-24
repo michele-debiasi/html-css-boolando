@@ -112,7 +112,7 @@ text-align: center;
 color: black;
 
 }
- .dress-card:hover .dress-image .img-1{
+ .dress-card:hover .dress-image .img-main{
     display: none;
 
  }
