@@ -112,13 +112,23 @@ text-align: center;
 color: black;
 
 }
- .dress-card:hover .dress-image .img-main{
+ 
+
+.dress-card .dress-image .img-hover{
+    display: none;
+    width: 100%;
+
+}
+
+
+
+.dress-card:hover .dress-image .img-main{
     display: none;
 
  }
 
- .zalando-page > .img-hover{
-    display: none;
+ .dress-card:hover .dress-image .img-hover{
+    display: block;
  }
 
 
