@@ -23,7 +23,16 @@ header{
     z-index: 1;
     background-color: orange;
     min-height: 80px;
+    height: auto;
 
+
+}
+
+header > .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
 }
 
 img{
